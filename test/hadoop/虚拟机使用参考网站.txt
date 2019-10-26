@@ -1,0 +1,1 @@
+NET模式下修改虚拟机的IP：https://blog.csdn.net/qq_39101581/article/details/83619148
